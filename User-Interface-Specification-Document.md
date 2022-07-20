@@ -8,30 +8,40 @@ This document will be used by Software developers who will develop this user int
 Total screen include 3 different section.
 
 ![All_Screen](https://user-images.githubusercontent.com/53150892/179973393-ef37ea52-ca61-4a25-bf44-389c40c3eaae.PNG)
-This screen include 3 different section. These are; <br>
-1)Top Bar <br>
 
-  1.1) New Users Button <br>
-  1.2)Hide Disabled User Checkbox <br>
-  1.2) Save User Button <br>
+This screen include 3 different section. These are; <br>
+#### 1)Top Bar <br>
+
+   1.1) New Users Button <br>
+   1.2)Hide Disabled User Checkbox <br>
+   1.3) Save User Button <br>
   
-2) User Information <br>
+#### 2) User Information <br>
    2.1) Sorting by ID button
    2.2) Sorting by User Name button
    2.3) Sorting by Email button
    2.4) Sorting by Enabled button
   
-3) New User Register  <br>
-
-
-
-
-
+#### 3) New User Register  <br>
+   3.1) Username Textbox
+   3.2) Display Name Textbox
+   3.3) Phone Textbox
+   3.4) Email Textbox
+   3.5) User Role Menu
+   3.6) User Status Checkbox
+   
   
 ## Top Bar
 ![UI_1_](https://user-images.githubusercontent.com/53150892/179984982-503048b6-ae96-48e9-a212-c0ac6d337e4f.PNG)
+### New User Button
+- Action: The new user button is pressed and the new user add panel is opened and the necessary    information is entered into the panel.
+- Button color to be Blue
+- Butter shape to be Rectangle  
 
-  
+## Hide Disabled User Checkbox
+- Action: 
+- Check Box: Blue color, with white colored ✓ (tick) symbol inside, shape of box should be square
+-
   
 ## User Information
   
