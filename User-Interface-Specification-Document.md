@@ -35,6 +35,7 @@ This screen include 3 different section. These are; <br>
 
 
 ![UI_1_](https://user-images.githubusercontent.com/53150892/179984982-503048b6-ae96-48e9-a212-c0ac6d337e4f.PNG)
+
 ##### 1.1)  New User Button
 - Action: The new user button is pressed and the new user add panel is opened and the necessary    information is entered into the panel.
 - Button color to be Blue
@@ -57,20 +58,20 @@ This screen include 3 different section. These are; <br>
 
 
 ##### 2.1) Sorting by ID button
--By pressing this button, the IDs are filtered from large to small or large to small.
--Symbols are 'solid up arrow head' on the left and 'Solid Filter Icon' on the right 
--
+- By pressing this button, the IDs are filtered from large to small or large to small.
+- Symbols are 'solid up arrow head' on the left and 'Solid Filter Icon' on the right 
+
 ##### 2.2) Sorting by User Name button 
--This button sorts by User Name. User Name is string variable. It sorts alphabetically. (A-Z or Z-A)
--Symbols are 'solid up arrow head, solid down arrow head (up arrow head above the down arrow head)' on the left and 'Solid Filter Icon' on the right 
+- This button sorts by User Name. User Name is string variable. It sorts alphabetically. (A-Z or Z-A)
+- Symbols are 'solid up arrow head, solid down arrow head (up arrow head above the down arrow head)' on the left and 'Solid Filter Icon' on the right 
 -
 ##### 2.3) Sorting by Email button 
--This button sorts by Email. Email is string variable. It sorts alphabetically. (A-Z or Z-A)
--- Symbols are 'solid up arrow head, solid down arrow head (up arrow head above the down arrow head)' on the left and 'Solid Filter Icon' on the right 
--
+- This button sorts by Email. Email is string variable. It sorts alphabetically. (A-Z or Z-A)
+- Symbols are 'solid up arrow head, solid down arrow head (up arrow head above the down arrow head)' on the left and 'Solid Filter Icon' on the right 
+
 ##### 2.4) Sorting by Enabled button
--This button sorts by User Status. User Status is boolean variable. Boolean working principle is true or false. So it sorts enabled to disabled or disabled to enabled.
--- Symbols are 'solid up arrow head, solid down arrow head (up arrow head above the down arrow head)' on the left and 'Solid Filter Icon' on the right 
+- This button sorts by User Status. User Status is boolean variable. Boolean working principle is true or false. So it sorts enabled to disabled or disabled to enabled.
+- Symbols are 'solid up arrow head, solid down arrow head (up arrow head above the down arrow head)' on the left and 'Solid Filter Icon' on the right 
 
   
   
