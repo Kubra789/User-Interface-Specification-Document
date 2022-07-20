@@ -1,7 +1,7 @@
 # User Interface Specification Document
 User Interface Specification Document
 
-## Introduction
+# Introduction
 This document will be used by Software developers who will develop this user interface. 
 
 ## Totaly Screen
@@ -46,11 +46,48 @@ This screen include 3 different section. These are; <br>
 ## User Information
 
 ##### Sorting by ID button
+-
+-
+-
 ##### Sorting by User Name button 
+-
+-
+-
 ##### Sorting by Email button 
+-
+-
+-
 ##### Sorting by Enabled button
+-
+-
+-
   
   
   
 ## New User Register
+
+##### Username Textbox 
+-
+-
+-
+##### Display Name Textbox 
+-
+-
+-
+##### Phone Textbox 
+-
+-
+-
+##### Email Textbox 
+-
+-
+-
+##### User Role Menu 
+-
+-
+-
+##### User Status Checkbox 
+-
+-
+-
 
