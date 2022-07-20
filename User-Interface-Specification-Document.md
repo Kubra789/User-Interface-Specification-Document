@@ -10,3 +10,6 @@ This screen include 3 different section. These are; <br>
   1.1) New Users Button <br>
   1.2)Hide Disabled User Checkbox <br>
   1.2) Save User Button <br>
+  
+  ![All Screen](https://user-images.githubusercontent.com/53150892/179963321-40d3dfa9-8636-4d80-b9ad-2ef46cd3286b.PNG)
+
