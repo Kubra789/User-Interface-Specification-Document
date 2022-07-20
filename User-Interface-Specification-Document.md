@@ -32,7 +32,7 @@ This screen include 3 different section. These are; <br>
    
   
 ## 1)Top Bar
--Table divided into 4 columns
+-Table divided into 3 columns
 
 ![UI_1_](https://user-images.githubusercontent.com/53150892/179984982-503048b6-ae96-48e9-a212-c0ac6d337e4f.PNG)
 
@@ -99,7 +99,7 @@ This screen include 3 different section. These are; <br>
 - Action:User roles are divided into three parts 1-guests (can only see their own information) 2-Admin (Can see, edit but not delete all users) 3-Super Admin (Can do all operations)
 -This is continued by selecting the required roles.
 -
-##### 3.5) User Status Checkbox 
+##### 3.6) User Status Checkbox 
 - Action:If the user is an active user, then this is marked. After all the necessary boxes are filled in, click the save user button and the page is refreshed. The new user switches to the user list.
 - In the Username, display name, phone, and email options, there is an empty white rectangular box approximately slightly larger than the label text, with a light grayish-white border around each box. When clicked, a black cursor appears in each box where the user can type the required information.
 - The user roles label also has a rectangular box in front of it with all the same specifications as above but has a gray colored text in it that is: 'Select user roles' (without the quotes), clicking the box takes this text away and shows a drop down menu box.
