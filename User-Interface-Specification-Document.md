@@ -33,17 +33,22 @@ This screen include 3 different section. These are; <br>
   
 ## Top Bar
 ![UI_1_](https://user-images.githubusercontent.com/53150892/179984982-503048b6-ae96-48e9-a212-c0ac6d337e4f.PNG)
-### New User Button
+##### New User Button
 - Action: The new user button is pressed and the new user add panel is opened and the necessary    information is entered into the panel.
 - Button color to be Blue
 - Butter shape to be Rectangle  
 
-## Hide Disabled User Checkbox
+##### Hide Disabled User Checkbox
 - Action: 
 - Check Box: Blue color, with white colored ✓ (tick) symbol inside, shape of box should be square
 -
   
 ## User Information
+
+##### Sorting by ID button
+##### Sorting by User Name button 
+##### Sorting by Email button 
+##### Sorting by Enabled button
   
   
   
