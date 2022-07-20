@@ -45,9 +45,9 @@ This screen include 3 different section. These are; <br>
 - Check Box: Blue color, with white colored ✓ (tick) symbol inside, shape of box should be square
 
 #### Save User Button
--Action: Action: Pressing this saves the new user entered in the new user prompt that appears after pressing the new user button in the header
+- Action: Action: Pressing this saves the new user entered in the new user prompt that appears after pressing the new user button in the header
  This button saves the user data written on the screen and sends it to the database.
--Light blue colored button, same size as new user button 
+- Light blue colored button, same size as new user button 
   
 ## User Information
 - Table to display the list and whitespace below until the end of the screen.
