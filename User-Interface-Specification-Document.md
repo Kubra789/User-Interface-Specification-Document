@@ -44,6 +44,9 @@ This screen include 3 different section. These are; <br>
 -
   
 ## User Information
+![UI_2_](https://user-images.githubusercontent.com/53150892/180003914-0fe391a2-cf2a-404f-ac04-ae67d394469c.PNG)
+
+
 
 ##### Sorting by ID button
 -
@@ -65,6 +68,8 @@ This screen include 3 different section. These are; <br>
   
   
 ## New User Register
+![UI_3_](https://user-images.githubusercontent.com/53150892/180003876-ec59bf6d-e64d-45cd-afa1-019ecdeba7e1.PNG)
+
 
 ##### Username Textbox 
 -
