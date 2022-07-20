@@ -81,24 +81,20 @@ This screen include 3 different section. These are; <br>
 
 ##### 3.1) Username Textbox 
 - Action:The username of the user to be registered is entered here.
-- Bold and black text as shown here
--
+
 ##### 3.2) Display Name Textbox 
 - Action:The phone number of the user to be registered is entered here.
--
--
+
 ##### 3.3) Phone Textbox 
 - Action:The phone number of the user to be registered is entered here.
--
--
+
 ##### 3.4) Email Textbox 
 - Action:The email of the user to be registered is entered here.
--
--
+
 ##### 3.5) User Role Menu 
 - Action:User roles are divided into three parts 1-guests (can only see their own information) 2-Admin (Can see, edit but not delete all users) 3-Super Admin (Can do all operations)
 -This is continued by selecting the required roles.
--
+
 ##### 3.6) User Status Checkbox 
 - Action:If the user is an active user, then this is marked. After all the necessary boxes are filled in, click the save user button and the page is refreshed. The new user switches to the user list.
 - In the Username, display name, phone, and email options, there is an empty white rectangular box approximately slightly larger than the label text, with a light grayish-white border around each box. When clicked, a black cursor appears in each box where the user can type the required information.
