@@ -17,18 +17,18 @@ This screen include 3 different section. These are; <br>
    1.3) Save User Button <br>
   
 #### 2) User Information <br>
-   2.1) Sorting by ID button
-   2.2) Sorting by User Name button
-   2.3) Sorting by Email button
-   2.4) Sorting by Enabled button
+   2.1) Sorting by ID button<br>
+   2.2) Sorting by User Name button <br>
+   2.3) Sorting by Email button <br>
+   2.4) Sorting by Enabled button <br>
   
 #### 3) New User Register  <br>
-   3.1) Username Textbox
-   3.2) Display Name Textbox
-   3.3) Phone Textbox
-   3.4) Email Textbox
-   3.5) User Role Menu
-   3.6) User Status Checkbox
+   3.1) Username Textbox <br>
+   3.2) Display Name Textbox <br>
+   3.3) Phone Textbox <br>
+   3.4) Email Textbox <br>
+   3.5) User Role Menu <br>
+   3.6) User Status Checkbox <br>
    
   
 ## Top Bar
